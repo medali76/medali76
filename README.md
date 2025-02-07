@@ -1,4 +1,5 @@
 ### Hi there 
+🌱 I’m currently learning # Join The Odin Community
 
 <!--
 **medali76/medali76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
